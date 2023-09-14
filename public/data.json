@@ -1,75 +1,75 @@
 [
     {
       "id": 1,
-      "img": "https://ibb.co/z2F774M",
-      "title": "Product 1",
-      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "price": "$19.99",
-      "credit": "4.5"
+      "img": "https://i.ibb.co/hdKrrt6/Rectangle-2-2.png",
+      "title": "Introduction to C Programming",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "15000",
+      "credit": "1hr"
     },
     {
       "id": 2,
-      "img": "https://ibb.co/bLL8hB8",
-      "title": "Product 2",
-      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "price": "$29.99",
-      "credit": "4.2"
+      "img": "https://i.ibb.co/16QpyZm/Rectangle-2-3.png",
+      "title": "Introduction to Algorithms",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "25000",
+      "credit": "2hr"
     },
     {
       "id": 3,
-      "img": "https://ibb.co/CMw3qQx",
-      "title": "Product 3",
-      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "price": "$39.99",
-      "credit": "4.7"
+      "img": "https://i.ibb.co/RPw5PZ3/Rectangle-2-4.png",
+      "title": "Introduction to C++ for DSA",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "10000",
+      "credit": "10hr"
     },
     {
       "id": 4,
-      "img": "https://ibb.co/F8PzPTY",
-      "title": "Product 4",
-      "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": "$49.99",
-      "credit": "4.8"
+      "img": "https://i.ibb.co/fDSqV1L/Rectangle-3.png",
+      "title": "Basic Data Structures",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "35000",
+      "credit": "5hr"
     },
     {
       "id": 5,
-      "img": "https://ibb.co/4sYr3Hh",
-      "title": "Product 5",
-      "details": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "price": "$59.99",
-      "credit": "4.1"
+      "img": "https://i.ibb.co/18n5PkQ/Rectangle-2.png",
+      "title": "Introduction to OOP Python",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "19000",
+      "credit": "5hr"
     },
     {
       "id": 6,
-      "img": "https://ibb.co/j5Tzv39",
-      "title": "Product 6",
-      "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "price": "$69.99",
-      "credit": "4.6"
+      "img": "https://i.ibb.co/dbPG3W5/Rectangle-2-5.png",
+      "title": "Software Engineering",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "23000",
+      "credit": "2hr"
     },
     {
       "id": 7,
-      "img": "https://ibb.co/KFsspZT",
-      "title": "Product 7",
-      "details": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      "price": "$79.99",
-      "credit": "4.4"
+      "img": "https://i.ibb.co/MCRwDx9/Rectangle-3-1.png",
+      "title": "AWS, Cloud Computing",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "35000",
+      "credit": "5hr"
     },
     {
       "id": 8,
-      "img": "https://ibb.co/k1hpfKV",
-      "title": "Product 8",
-      "details": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-      "price": "$89.99",
-      "credit": "4.9"
+      "img": "https://i.ibb.co/1m8dSwd/Rectangle-2-1.png",
+      "title": "Database (MySQL)",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "19000",
+      "credit": "5hr"
     },
     {
       "id": 9,
-      "img": "https://ibb.co/7ryb5Gk",
-      "title": "Product 9",
-      "details": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
-      "price": "$99.99",
-      "credit": "4.3"
+      "img": "https://i.ibb.co/pWx73Dk/Rectangle-2-6.png",
+      "title": "Problem-Solving Part",
+      "details": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+      "price": "23000",
+      "credit": "2hr"
     }
   ]
   

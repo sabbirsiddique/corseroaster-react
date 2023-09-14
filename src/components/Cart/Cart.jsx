@@ -4,7 +4,7 @@ import React from 'react';
 const Cart = () => {
     return (
         <div>
-             <h1 className="text-3xl font-bold">hi!!!!!!</h1>
+             <h1>credit remianing</h1>
         </div>
     );
 };
