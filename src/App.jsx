@@ -10,8 +10,8 @@ function App() {
 
   return (
     <>
-      <div className="bg-[#F3F3F3]">
-        <h1 className="pt-8 text-center">Course Registration</h1>
+      <div className="bg-gray-100">
+        <h1 className="pt-8 mb-8 text-center text-[32px] text-[#1C1B1B] font-bold">Course Registration</h1>
 
         <Home></Home>
       </div>

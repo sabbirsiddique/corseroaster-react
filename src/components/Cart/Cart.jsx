@@ -3,19 +3,38 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
 
-const Cart = ({ selectedCourse, totalCreditHour, creditRemaining }) => {
+const Cart = ({
+  selectedCourse,
+  totalCreditHour,
+  creditRemaining,
+  totalPrice,
+}) => {
   return (
-    <div className="card w-[312px] h-[402px] bg-base-100 shadow-xl rounded-xl sticky top-0">
-      <h1 className="text-center">Credit Hour Remainings: {creditRemaining} hr</h1>
-      <hr />
+    <div className="card w-[312px] min-h-fit bg-white rounded-xl sticky top-0 p-4">
+      <h1 className="text-center mb-5 text-lg font-bold text-[#2F80ED]">
+        Credit Hour Remaining: {creditRemaining} hr
+      </h1>
+      <hr className="mb-5" />
+      <h1 className="mb-5 text-xl font-bold">Course Name</h1>
       <h1>
-        Course Name
         {selectedCourse.map((course) => (
-          <li key={course.id}>{course.title}</li>
+          <li
+            className="text-[#1c1b1b99] font-medium leading-[32px] list-decimal"
+            key={course.id}
+          >
+            {course.title}
+          </li>
         ))}
       </h1>
-      <hr />
-      <h1>Total Credit Hour: {totalCreditHour} hr</h1>
+
+      <hr className="mt-5" />
+      <h1 className="mt-5 text-base font-medium ">
+        Total Credit Hour: {totalCreditHour}
+      </h1>
+      <hr className="mt-5" />
+      <h1 className="mt-5 text-base font-semibold">
+        Total Price: {totalPrice} USD
+      </h1>
     </div>
   );
 };
